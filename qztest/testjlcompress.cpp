@@ -34,7 +34,7 @@ see (un)zip.h files for details. Basically it's the zlib license.
 #include <JlCompress.h>
 
 #ifdef Q_OS_WIN
-#include <Windows.h>
+#include <windows.h>
 #endif
 
 void TestJlCompress::compressFile_data()
